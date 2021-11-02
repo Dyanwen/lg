@@ -1,0 +1,34 @@
+已发布: 32
+
+3075  ||  已发布  ||  开篇词：掌握大数据，把握未来  ||  313c0ec5e2eb43f488087cadfab95aa7
+3076  ||  已发布  ||  第01讲：大话 Hadoop 生态圈  ||  7ea231f14b9c47febb803aa2b1230e1c
+3077  ||  已发布  ||  第02讲：Hadoop 发行版选型和伪分布式平台的构建  ||  2f95fbc1a614495f9c7960078183d3fa
+3078  ||  已发布  ||  第03讲：自动化运维工具 Ansible 在部署大数据平台下的应用（上）  ||  e22a95531b704a5d942cf110932e5af0
+3163  ||  已发布  ||  第04讲：自动化运维工具 Ansible 在部署大数据平台下的应用（下）  ||  230211d3364b41d182c3b656083477fb
+3079  ||  已发布  ||  第05讲：手动模式构建双 Namenode+Yarn 的 Hadoop 集群（上）  ||  a2c630f72cd844bc9585be0782770254
+3208  ||  已发布  ||  第06讲：手动模式构建双 Namenode+Yarn 的 Hadoop 集群（下）  ||  baec09ec407e45249e7f4e4d4bc2e0fd
+3080  ||  已发布  ||  第07讲：通过 Ambari 工具自动化构建 Hadoop 大数据平台和外围应用（上）  ||  0537a0eebd8d4298aaacb5387b39b045
+3337  ||  已发布  ||  第08讲：通过 Ambari 工具自动化构建 Hadoop 大数据平台和外围应用（下）  ||  26abe4e68dce4a148b026fa6e01c8e62
+3081  ||  已发布  ||  第09讲：如何通过 Hive/tez 与 Hadoop 的整合快速实现大数据开发（上）  ||  fbeca2d83095488c9754850fe7dc68a6
+3338  ||  已发布  ||  第10讲：如何通过 Hive/tez 与 Hadoop 的整合快速实现大数据开发（下）  ||  7d3140725ebf4db8b62ec5580fc94567
+3082  ||  已发布  ||  第11讲：HDFS 组件运行机制剖析及 HDFS Shell 的使用  ||  b0df82e912c94fb8b7ee0ba2fb7cc580
+3083  ||  已发布  ||  第12讲：Hadoop 分布式资源管理器 Yarn、MR 运行机制剖析  ||  9859d02ada214ff8ba95e8eb2f041c1a
+3084  ||  已发布  ||  第13讲：Spark Standalone 模式的构建以及 Spark 与 Yarn 的整合  ||  f4b4d2dc307c4db4b24ee74f8506716f
+3085  ||  已发布  ||  第14讲：HBase 与 Hadoop 的整合应用实践  ||  33bcf57052944db0aa2d002a3bd9190c
+3086  ||  已发布  ||  第15讲：Flink Standalone、Flink on Yarn 集群构建与应用场景  ||  0305d3b450714da38a53f01e5009fdb4
+3087  ||  已发布  ||  第16讲：轻量级日志收集工具 Filebeat 应用案例  ||  1762b39a67de46f7b617a274c50ff7c8
+3088  ||  已发布  ||  第17讲：日志收集、分析过滤工具 Logstash 应用实战  ||  64b56f1ff4484f55906d4d2f31e29bf0
+3089  ||  已发布  ||  第18讲：Elasticsearch 应用架构的实现与调优  ||  cd04e5e3b9fb46d8ba0becf82709b1c8
+3090  ||  已发布  ||  第19讲：Kafka 应用场景、集群容量规划、架构设计应用案例  ||  7616a45dc8e74edea592035883d6f4d6
+3091  ||  已发布  ||  第20讲：日均数据量 30 亿的 Filebeat+Kafka+Mirrormaker 跨机房实时日志传送案例  ||  ee6e6c7523054310821213d07c99a0fb
+3092  ||  已发布  ||  第21讲：Filebeat+Kafka+Logstash+Elasticsearch 构建可视化日志分析系统  ||  5560050a630c4826adc6b84e4b2eacc1
+3093  ||  已发布  ||  第22讲：通过 Ganglia 实现对 HDFS、Yarn、Spark 运行状态监控  ||  7285f8d35f2b4fcca5cccc061ce0341e
+3094  ||  已发布  ||  第23讲：Namenode、Datanode、Nodemanager 等服务状态监控策略  ||  9ef29add955a4b2084e036ed4902a892
+3095  ||  已发布  ||  第24讲：通过 Kafka Eagle 实现对 Kafka 消息队列的监控  ||  0d50ad6ebdc84377b0fc1993eace5c9d
+3096  ||  已发布  ||  第25讲：Yarn 资源调度 Fair Schedule 与 Capacity Scheduler 配置选型  ||  dde737bd8c4345078f5ad024efa1cc05
+3097  ||  已发布  ||  第26讲：HDFS 存储权限 ACL 控制策略以及与系统权限整合应用  ||  c0926f947b544346ba35f65384a1df92
+3098  ||  已发布  ||  第27讲：Yarn、HDFS、Kafka 内存调优策略以及性能瓶颈  ||  31bc901ecb994e35946de5d9b26ba9e0
+3099  ||  已发布  ||  第28讲：Hadoop 平台常见故障汇总以及操作系统性能调优  ||  cc258e63262a4065a569bce8b6a7fff7
+3100  ||  已发布  ||  第29讲：大数据平台的硬件规划、网络调优、架构设计、节点规划  ||  78d477efa5b24107ac34065fff03c26e
+3101  ||  已发布  ||  第30讲：Hadoop 跨集群数据迁移应用实践  ||  2ce762c5708141f3b7c19d89ab6dddc2
+4445  ||  已发布  ||  结语：大数据运维，大有作为  ||  4b62996b7ac0419c8c219ebcb4302823
